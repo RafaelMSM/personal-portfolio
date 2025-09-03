@@ -20,8 +20,8 @@ export default function HeroSection() {
       >
         <div className="rounded-full overflow-hidden shadow-2xl w-full h-full">
           <Image
-            src="https://images.unsplash.com/photo-1502685104226-ee32379fefbe?w=500&h=500&fit=crop"
-            alt="Foto de teste"
+            src="public/ProfilePicture.jpg"
+            alt="Rafael Medeiros"
             width={192}
             height={192}
             className="object-cover rounded-full"
