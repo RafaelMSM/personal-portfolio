@@ -59,7 +59,7 @@ export default function HeroSection() {
           asChild
           className="relative group px-6 py-3 text-base font-semibold rounded-xl bg-gradient-to-r from-indigo-600 via-purple-600 to-cyan-600 text-white shadow-lg animate-borderGlow"
         >
-          <a href="public\Currículo Rafael Medeiros Sobrinho Monteiro.pdf" download>
+          <a href="https://raw.githubusercontent.com/RafaelMSM/personal-portfolio/main/public/Curr%C3%ADculo%20Rafael%20Medeiros%20Sobrinho%20Monteiro.pdf" download>
             <Download className="mr-2 h-5 w-5" />
             Baixar CV
           </a>
