@@ -20,7 +20,7 @@ export default function HeroSection() {
       >
         <div className="rounded-full overflow-hidden shadow-2xl w-full h-full">
           <Image
-            src="public/ProfilePicture.jpg"
+            src="https://raw.githubusercontent.com/RafaelMSM/personal-portfolio/refs/heads/main/public/ProfilePicture.jpg"
             alt="Rafael Medeiros"
             width={192}
             height={192}
@@ -59,7 +59,7 @@ export default function HeroSection() {
           asChild
           className="relative group px-6 py-3 text-base font-semibold rounded-xl bg-gradient-to-r from-indigo-600 via-purple-600 to-cyan-600 text-white shadow-lg animate-borderGlow"
         >
-          <a href="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf" download>
+          <a href="public\Currículo Rafael Medeiros Sobrinho Monteiro.pdf" download>
             <Download className="mr-2 h-5 w-5" />
             Baixar CV
           </a>
